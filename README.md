@@ -93,6 +93,9 @@ MACD ( Moving Average Convergence Divergence)  indicator determines the momentum
 10: The period of the signal line, which is an EMA of the MACD line
 
 
+Milestone 6 - Conclusion 
+
+In this project I successfully built and evaluated a predictive model for the next day stock closing prices, demonstrating high accuracy and explanatory power. The comprehensive approach, from data acquisition and cleaning to feature engineering, modeling, and visualization, provided valuable insights for enhancing decision-making processes in stock trading and investment. The findings, particularly the importance of the MACD indicator and the initial data acquisition phase, was critical in setting the foundation for the entire project, ensuring a robust and comprehensive dataset was used for model training and evaluation.
 
 
 
